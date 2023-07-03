@@ -1,0 +1,18 @@
+{
+  "name": "@akasuv/rex",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Rex is an everything toolkit for React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Utilities",
+    "React",
+    "Toolkit",
+    "Rex"
+  ],
+  "author": "Wei Su <me@weisu.io>",
+  "license": "MIT"
+}
